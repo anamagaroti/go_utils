@@ -5,9 +5,9 @@ import (
 	"io"
 	"testing"
 
+	"anamagaroti/util/progress"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"go.mau.fi/util/progress"
 )
 
 func TestWriter(t *testing.T) {

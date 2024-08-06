@@ -15,9 +15,9 @@ import (
 	"os/exec"
 	"strconv"
 
+	"anamagaroti/util/exzerolog"
+	"anamagaroti/util/ffmpeg"
 	"github.com/rs/zerolog"
-	"go.mau.fi/util/exzerolog"
-	"go.mau.fi/util/ffmpeg"
 )
 
 var lottieconverterPath string

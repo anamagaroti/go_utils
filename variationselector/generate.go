@@ -15,8 +15,8 @@ import (
 
 	"golang.org/x/exp/slices"
 
-	"go.mau.fi/util/exerrors"
-	"go.mau.fi/util/unicodeurls"
+	"anamagaroti/util/exerrors"
+	"anamagaroti/util/unicodeurls"
 )
 
 func readEmojiLines(url, filter string) []string {

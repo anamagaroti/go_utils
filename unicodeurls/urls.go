@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"go.mau.fi/util/exerrors"
+	"anamagaroti/util/exerrors"
 )
 
 const UnicodeVersion = "15.1"

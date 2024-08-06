@@ -6,8 +6,8 @@ import (
 	"io"
 	"testing"
 
+	"anamagaroti/util/progress"
 	"github.com/stretchr/testify/assert"
-	"go.mau.fi/util/progress"
 )
 
 func TestReader(t *testing.T) {

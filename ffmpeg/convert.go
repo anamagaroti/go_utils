@@ -16,8 +16,8 @@ import (
 
 	"github.com/rs/zerolog"
 
-	"go.mau.fi/util/exmime"
-	"go.mau.fi/util/exzerolog"
+	"anamagaroti/util/exmime"
+	"anamagaroti/util/exzerolog"
 )
 
 var ffmpegDefaultParams = []string{"-hide_banner", "-loglevel", "warning"}

@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"go.mau.fi/util/base58"
+	"anamagaroti/util/base58"
 )
 
 var stringTests = []struct {

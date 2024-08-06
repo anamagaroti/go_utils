@@ -1,4 +1,4 @@
-module go.mau.fi/util
+module anamagaroti/util
 
 go 1.21
 
