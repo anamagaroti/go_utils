@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"anamagaroti/go_utils/exerrors"
+	exerrors "github.com/anamagaroti/go_utils/exerrors"
 )
 
 const UnicodeVersion = "15.1"

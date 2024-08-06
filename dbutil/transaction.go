@@ -17,8 +17,8 @@ import (
 
 	"github.com/rs/zerolog"
 
-	"anamagaroti/go_utils/exerrors"
-	"anamagaroti/go_utils/random"
+	exerrors "github.com/anamagaroti/go_utils/exerrors"
+	random "github.com/anamagaroti/go_utils/random"
 )
 
 var (

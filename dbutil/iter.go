@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"anamagaroti/go_utils/exzerolog"
+	exzerolog "github.com/anamagaroti/go_utils/exzerolog"
 )
 
 var ErrAlreadyIterated = errors.New("this iterator has been already iterated")

@@ -15,8 +15,8 @@ import (
 	"os/exec"
 	"strconv"
 
-	"anamagaroti/go_utils/exzerolog"
-	"anamagaroti/go_utils/ffmpeg"
+	exzerolog "github.com/anamagaroti/go_utils/exzerolog"
+	ffmpeg "github.com/anamagaroti/go_utils/ffmpeg"
 
 	"github.com/rs/zerolog"
 )

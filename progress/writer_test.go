@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"anamagaroti/go_utils/progress"
+	progress "github.com/anamagaroti/go_utils/progress"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

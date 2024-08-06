@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"anamagaroti/go_utils/base58"
+	"github.com/anamagaroti/go_utils/base58"
 )
 
 var (

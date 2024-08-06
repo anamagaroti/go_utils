@@ -1,4 +1,4 @@
-module anamagaroti/go_utils
+module github.com/anamagaroti/go_utils
 
 go 1.21
 
