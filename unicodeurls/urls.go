@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"anamagaroti/util/exerrors"
+	"anamagaroti/go_utils/exerrors"
 )
 
 const UnicodeVersion = "15.1"

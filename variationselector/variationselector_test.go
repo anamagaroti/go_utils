@@ -17,8 +17,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"anamagaroti/util/exerrors"
-	"anamagaroti/util/variationselector"
+	"anamagaroti/go_utils/exerrors"
+	"anamagaroti/go_utils/variationselector"
 )
 
 func TestAdd_Full(t *testing.T) {

@@ -7,7 +7,7 @@ package base58_test
 import (
 	"fmt"
 
-	"anamagaroti/util/base58"
+	"anamagaroti/go_utils/base58"
 )
 
 // This example demonstrates how to decode modified base58 encoded data.

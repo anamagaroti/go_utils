@@ -6,7 +6,8 @@ import (
 	"io"
 	"testing"
 
-	"anamagaroti/util/progress"
+	"anamagaroti/go_utils/progress"
+
 	"github.com/stretchr/testify/assert"
 )
 

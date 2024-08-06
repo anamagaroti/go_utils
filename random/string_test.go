@@ -13,7 +13,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"anamagaroti/util/random"
+	"anamagaroti/go_utils/random"
 )
 
 func TestString_Length(t *testing.T) {

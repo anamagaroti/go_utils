@@ -16,7 +16,7 @@ import (
 	"net/url"
 	"strings"
 
-	"anamagaroti/util/shlex"
+	"anamagaroti/go_utils/shlex"
 )
 
 type Parsed struct {

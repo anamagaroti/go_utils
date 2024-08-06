@@ -7,7 +7,7 @@ package base58_test
 import (
 	"testing"
 
-	"anamagaroti/util/base58"
+	"anamagaroti/go_utils/base58"
 )
 
 var checkEncodingStringTests = []struct {

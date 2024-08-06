@@ -15,8 +15,8 @@ import (
 	"slices"
 	"strings"
 
-	"anamagaroti/util/exerrors"
-	"anamagaroti/util/unicodeurls"
+	"anamagaroti/go_utils/exerrors"
+	"anamagaroti/go_utils/unicodeurls"
 )
 
 type Confusable struct {
